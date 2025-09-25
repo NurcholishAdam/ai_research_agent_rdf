@@ -569,4 +569,5 @@ Contributors will be:
 - Invited to present at conferences
 - Given priority access to new features
 
+
 Thank you for contributing to LIMIT-Graph RDF integration! Your work helps create a more inclusive and culturally-aware AI system. 🌍✨
